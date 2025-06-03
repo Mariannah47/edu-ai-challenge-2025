@@ -1,0 +1,26 @@
+Help me select the most suitable database for my social platform application. I need you to use Chain-of-Thought reasoning to analyze my requirements and justify your database recommendation. Here are my requirements:
+
+1. Application Type: Social platform with millions of users
+2. Data Types to Store:
+   - User profiles
+   - Posts/content
+   - User connections/relationships
+3. Performance Requirements:
+   - High read speed is crucial
+   - Read/Write ratio: 80% reads, 20% writes
+4. Scalability: Must handle growing user base effectively
+
+Follow this structured analysis:
+
+1. First, analyze each requirement individually and explain its implications for database selection
+2. Consider the following aspects for each requirement:
+   - Data structure implications
+   - Performance considerations
+   - Scalability factors
+   - Consistency requirements
+3. Evaluate different database types against these requirements
+4. Provide a detailed comparison of the top 2-3 most suitable options
+5. Make a final recommendation with clear justification
+6. Explain any potential trade-offs or limitations of your recommendation
+
+Show your reasoning step by step, and explain how each factor influenced your decision-making process.
