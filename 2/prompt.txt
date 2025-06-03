@@ -1,0 +1,9 @@
+you need to create a clear and well-structured bug ticket based on the following information: “Logout button doesn’t work on Safari. It just doesn’t respond.” The ticket should have the next fields:
+- Title
+- Description
+- Steps to Reproduce
+- Expected vs Actual Behavior
+- Environment (if known)
+- Severity or Impact
+
+The expected result is a markdown with the requested information. Do not guess. Do not add not markdown-related comments.
